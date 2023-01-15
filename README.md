@@ -5,10 +5,6 @@
 - 🔬 Atualmente também estou estudando Data Science
 - 📩 Contate-me no e-mail: briandayvison020@gmail.com
 
-<img align= "center" height="140em" src="https://github-readme-stats.vercel.app/api?username=briandayvison&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img align="center" height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briandayvison&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 #### Eu pratico essas tecnologias: 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 <img align="" alt="Rafa-Csharp" height="28" width="80" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png">
